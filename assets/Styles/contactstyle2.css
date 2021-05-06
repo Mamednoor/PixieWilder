@@ -18,7 +18,7 @@ body {
 h1 {
     font-size: x-large;
     display: block;
-    justify-content: center;git 
+    justify-content: center; 
     text-align: center;
 }
 
@@ -40,7 +40,6 @@ textarea,
     margin: 10px auto;
     padding: 1em;
     border-radius: 10px;
-    box-shadow: inset 5px 10px 12px 2px;
 }
 
 .statue {
@@ -111,7 +110,6 @@ button {
         margin: 10px auto;
         padding: 1em;
         border-radius: 10px;
-        box-shadow: inset 5px 10px 12px 2px;
     }
 
     .button:active {

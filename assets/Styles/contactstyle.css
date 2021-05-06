@@ -258,7 +258,6 @@ textarea,
   margin: 10px auto;
   padding: 1em;
   border-radius: 10px;
-  box-shadow: inset 5px 10px 12px 2px;
 }
 
 .statue {
@@ -286,7 +285,7 @@ input {
   background-color: linear-gradient(rgba(252, 76, 2, .5), rgba(0, 87, 120, .5));
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px 5px black;
+  box-shadow: 0 3px 2px black;
   transition-property: inset 5s;
   transition-duration: 5s;
   
@@ -495,7 +494,6 @@ footer a:hover {
     margin: 10px auto;
     padding: 1em;
     border-radius: 10px;
-    box-shadow: inset 5px 10px 12px 2px;
 }
 
 #form {
